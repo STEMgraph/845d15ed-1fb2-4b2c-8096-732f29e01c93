@@ -1,6 +1,7 @@
 <!---
 {
   "id": "845d15ed-1fb2-4b2c-8096-732f29e01c93",
+  "teaches": "From `scanf` to `fscanf`: Reading Input from Files",
   "depends_on": ["1394df5e-2528-4670-9398-208071d70c1b"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
